@@ -1,0 +1,30 @@
+ol {
+  color: #3A396C;
+  font-size:22px;
+  font-family: 'Literata', serif;
+}
+div {
+background-color: #FAD2DD;
+border: 5px solid #EE5C96;
+  border-radius: 10px;
+}
+.title{
+  background-color: #FAD2DD;
+  border: 5px solid #EE5C96;
+  border-radius: 10px;
+  font-family: 'Literata', serif;
+  color:#3A396C;
+  text-shadow: 2px 2px #EE5C96;
+  display:block;
+  height:150px;
+  width:370px;
+}
+img{
+  width: 462px;
+  height: 250px;
+}
+.size{
+  object-fit: cover;
+  border: 5px solid #EE5C96;
+  border-radius: 10px;
+}
